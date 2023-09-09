@@ -1,4 +1,7 @@
 # Instalciones Necesarias para el Curso
+
+![Certus](https://www.certus.edu.pe/wp-content/uploads/2018/12/certus-logo-1-01-copy-3@2x.png](https://www.certus.edu.pe/wp-content/uploads/2022/09/logo-certus-blanco-4.png)https://www.certus.edu.pe/wp-content/uploads/2022/09/logo-certus-blanco-4.png)
+
   ## Instalaciones para PC
   1. [Visual Studio Code](http://www.limni.net](https://code.visualstudio.com)https://code.visualstudio.com)
   2. [Node v18](https://nodejs.org/en)
@@ -24,4 +27,4 @@
 3. [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka)
 
 
-![Certus](https://www.certus.edu.pe/wp-content/uploads/2018/12/certus-logo-1-01-copy-3@2x.png)
+
