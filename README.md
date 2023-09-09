@@ -24,4 +24,4 @@
 3. [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka)
 
 
-[Certus](https://www.certus.edu.pe/wp-content/uploads/2018/12/certus-logo-1-01-copy-3@2x.png)
+![Certus](https://www.certus.edu.pe/wp-content/uploads/2018/12/certus-logo-1-01-copy-3@2x.png)
