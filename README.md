@@ -1,6 +1,6 @@
 # Instalciones Necesarias para el Curso
 
-![xd](https://www.certus.edu.pe/wp-content/uploads/2022/09/logo-certus-blanco-4.png)
+<!--![xd](https://www.certus.edu.pe/wp-content/uploads/2022/09/logo-certus-blanco-4.png) -->
 
   ## Instalaciones para PC
   1. [Visual Studio Code](http://www.limni.net](https://code.visualstudio.com)https://code.visualstudio.com)
